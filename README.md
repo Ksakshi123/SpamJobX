@@ -1,6 +1,4 @@
-# SpamJobX
-
-# 🕵️‍♀️ Fake Job Detection using Machine Learning
+# 🕵️‍♀️SpamJobX - Fake Job Detection using Machine Learning
 
 A trustworthy, explainable ML app to detect fake job postings based on job descriptions. Built with scikit-learn, Streamlit, LIME, and SHAP.
 
