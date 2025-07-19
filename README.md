@@ -1,4 +1,4 @@
-# 🕵️‍♀️ SpanJobX - Fake Job Detection using Machine Learning
+# 🕵️‍♀️ SpamJobX - Fake Job Detection using Machine Learning
 
 A trustworthy and explainable machine learning project that detects fake job postings using NLP, classification models, and interactive visualizations. Built with real-world datasets, the project empowers job seekers and HR professionals to identify suspicious listings with higher confidence.
 
