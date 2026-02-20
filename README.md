@@ -115,16 +115,16 @@ These techniques ensure interpretability in fraud detection.
 ---
 
 ## 📂 Project Structure
+
+```
 ├── data/
-│ └── fake_job_postings.csv
+│   └── fake_job_postings.csv
 ├── notebooks/
-│ └── Xai.ipynb
+│   └── Xai.ipynb
 ├── results/
 ├── README.md
 └── requirements.txt
-
-
----
+```
 
 ## ▶️ How to Run
 
